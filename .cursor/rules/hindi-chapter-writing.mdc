@@ -1,0 +1,39 @@
+---
+description: Hindi narrative chapters—grammar, flow, and reader connection for this project
+globs: chapter*
+alwaysApply: true
+---
+
+# Hindi chapter writing (this repo)
+
+When editing files matching `chapter*` (e.g. `chapter 1`):
+
+## Script and language
+
+- Write narrative **Hindi in Devanagari** unless the user explicitly asks for Roman (Hinglish) transliteration.
+- Prefer **standard खड़ी बोली** spellings: आँख, धूप, महसूस, प्रकृति, चिड़िया, गाँव, इच्छा, भीतर, etc.
+- Fix informal chat abbreviations (`sb`, `m`, `nhi`, `pta`) to full words.
+
+## Grammar and “pronunciation” (spelling reflects sound)
+
+- **मैंने / मुझे / मेरा** agreement with gender and number of nouns (e.g. इच्छा हुई, मन ठहरा नहीं).
+- **संधि and compounds**: निकलकर, लौट आया, भर गया—use standard written forms.
+- **Punctuation**: use **पूर्ण विराम (।)** at sentence end in Hindi; comma **,** for short pauses inside a sentence.
+- Avoid English commas glued to Hindi without space; keep one clear idea per sentence where possible.
+
+## Paragraphs and logic
+
+- **One emotional beat per paragraph** when possible: (1) sensory opening, (2) urge to go outside + touch, (3) gratitude / wonder, (4) belonging metaphor, (5) village wandering + childlike joy, (6) surrender to the experience + dance with nature.
+- Add **short bridges** (ऐसा लगा, उसी ताल में, धीरे-धीरे) so paragraphs do not feel like a list of images.
+- Remove **typos that break meaning** (e.g. `led` when meaning was लता or पेड़—choose the word that fits the image list).
+
+## Reader connection
+
+- Keep **concrete senses** (हथेलियों, साँसें, चेहरा, सुगंध) before abstract feeling (धन्यवाद, कृतज्ञता).
+- **End sections** with a line that ties the self to the larger scene (e.g. nature “singing” and the narrator joining that rhythm).
+- Do not over-explain; **trust** the metaphor if the previous sentence already established it.
+
+## Consistency
+
+- If a chapter uses a title format (e.g. `## अध्याय १`), keep the same pattern for later chapters.
+- After substantive edits, quickly scan for mixed Roman Hindi leftovers and Devanagari consistency.
