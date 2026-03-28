@@ -33,6 +33,13 @@ When editing files matching `chapter*` (e.g. `chapter 1`):
 - **End sections** with a line that ties the self to the larger scene (e.g. nature “singing” and the narrator joining that rhythm).
 - Do not over-explain; **trust** the metaphor if the previous sentence already established it.
 
+## English version (keep in sync)
+
+- **Hindi** chapters live at the repo root with the same naming as today: e.g. `chapter 1`, `chapter 2` (no extension unless the project adds one later).
+- **English** translation lives in **`english/`** with the **same filename**: e.g. `english/chapter 1` pairs with `chapter 1`.
+- Whenever you **add, rewrite, or fix** the Hindi chapter, **update the matching file under `english/` in the same pass** so structure, paragraph breaks, imagery, and meaning stay aligned. Do not leave Hindi ahead of English or the reverse without the user explicitly asking for a Hindi-only change.
+- English should be **faithful literary prose** (natural English, not word-for-word calque that sounds odd). Chapter titles in English can use `## Chapter 1` to mirror `## अध्याय १`.
+
 ## Consistency
 
 - If a chapter uses a title format (e.g. `## अध्याय १`), keep the same pattern for later chapters.
